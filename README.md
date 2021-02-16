@@ -1,12 +1,12 @@
 # Mon Titre 
-<ls>
-  <h1> jeux video préferé:
-   <h2> apex
-    <h3> gta
-      <h4> god of war
-</ls>
 
-var reg = [];
-     reg[0] = gta
-      reg[1] = apex
-       reg[2] = fortnite
+<ul>
+<li> # la liste de jeux</li>
+<li> le premiere de ma liste es Apex legend</li>
+<li>le Second es</li>
+
+
+
+
+
+</ul>
