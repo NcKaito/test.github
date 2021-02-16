@@ -6,8 +6,7 @@
       <h4> god of war
 </ls>
 <var>
-  var reg=[];
-     reg[0] =
-      reg[1] =
-       reg[2] =
+     reg[0] = gta
+      reg[1] = apex
+       reg[2] = fortnite
 </var>
