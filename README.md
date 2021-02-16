@@ -6,7 +6,8 @@
       <h4> god of war
 </ls>
 <var>
-      
-      
-      
-      </var>
+  var reg=[];
+     reg[0] =
+      reg[1] =
+       reg[2] =
+</var>
