@@ -5,8 +5,8 @@
     <h3> gta
       <h4> god of war
 </ls>
-<var>
+
+var reg = [];
      reg[0] = gta
       reg[1] = apex
        reg[2] = fortnite
-</var>
