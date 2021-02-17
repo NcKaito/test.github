@@ -10,4 +10,6 @@ jeux préférer:
 
 ![GitHub Logo](/images/the_witcher.jpn)
 
+![GitHub Logo](/images/logo.png)
+
 
