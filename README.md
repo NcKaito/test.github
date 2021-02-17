@@ -10,6 +10,5 @@ jeux préférer:
 
 ![GitHub Logo](/images/the_witcher.jpn)
 
-![GitHub Logo](/images/logo.png)
-
+Format: ![Alt Text](https://cdn.cdkeys.com/700x700/media/catalog/product/t/h/the_witcher_wild_hunt_goty_pc.pn)
 
