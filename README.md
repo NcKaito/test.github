@@ -1,7 +1,7 @@
 # Mon Titre 
 
 <ul> 
-  <strong>JEUX PREFERER:</strong>
+  JEUX PREFERER:
 
 <li>le premiere de ma liste es Apex legend</li>
 <li>le Second es the Witcher 3</li>
