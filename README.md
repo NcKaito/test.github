@@ -2,9 +2,9 @@
 
  
 ##jeux Video préférer:
--le premiere de ma liste es Apex legend
--le Second es the Witcher 3
--le dernier es grand theft auto
+- Apex legend
+- the Witcher 3
+- grand theft auto
 
 
 Boin jeux | Mauvais jeux
