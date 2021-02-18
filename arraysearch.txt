@@ -1,0 +1,14 @@
+
+words = ['book', 'pencil', 'pen', 'note book', 'sharpener', 'rubber'] 
+
+
+def arraySearch(array, search):
+    return  True
+
+for words in word: 
+    if words == Search
+        return true
+
+
+print('Vrai' if arraySearch(words, 'note book') else 'Faux')
+print('Vrai' if arraySearch(words, 'dog') else 'Faux')
