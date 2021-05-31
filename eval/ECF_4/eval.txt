@@ -1,0 +1,27 @@
+Les site web utiliser comme model
+-https://www.theverge.com/
+-https://www.nzherald.co.nz/
+
+
+-page 1: page d'acceuille;
+dans la page d'aceuille en trouve comme fonctionnalité les deux bouton 
+
+-login : connection 
+-sign up : incription
+on peut trouver aussi le bouton icon du site qui ramènnera l'utilisateur à la page d'acceuille.
+-le nom du site en titre avec la date du jour
+-la barre de recherche 
+-bare de cattégory qui dirigera l'utilisateur dans la catégory quil veut.
+-
+
+
+
+besoin demander 
+-site simple d'utilisation
+-acces rapide au catégory
+-responsive design
+
+maquette fil de fer 3 page 
+-acceuille 
+-article
+-catégorie
