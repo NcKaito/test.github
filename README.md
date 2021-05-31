@@ -1,14 +1,17 @@
 # Mon Titre 
 
-<ul> 
-jeux préférer:
+ 
+##jeux Video préférer:
+- Apex legend
+- the Witcher 3
+- grand theft auto
 
-<li>le premiere de ma liste es Apex legend</li>
-<li>le Second es the Witcher 3</li>
-<li>le dernier es grand theft auto</li>
-</ul>
 
-![GitHub Logo](/images/the_witcher.jpn)
+Boin jeux | Mauvais jeux
+--------- | ------------
+ gta      | fortnite
+ god of war| gto 
+ apex     | splinter cell
 
-Format: ![Alt Text](https://cdn.cdkeys.com/700x700/media/catalog/product/t/h/the_witcher_wild_hunt_goty_pc.pn)
+
 
